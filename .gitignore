@@ -1,0 +1,4 @@
+.venv
+ml_project/__pycache__/
+ml_project/.venv
+__pycache__/
